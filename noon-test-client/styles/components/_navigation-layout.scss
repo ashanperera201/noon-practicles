@@ -1,0 +1,9 @@
+@import "../utils/responsive";
+
+.app-container{
+    max-width: 60rem;
+    
+    @include respond(tab-land){
+        max-width: 100vh;
+    }
+}

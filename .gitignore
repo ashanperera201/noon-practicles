@@ -1,0 +1,19 @@
+/noon-test-client/node_modules
+/noon-test-server/node_modules
+
+
+/noon-test-client/.pnp
+/noon-test-client/.pnp.js
+
+# testing
+/noon-test-client/coverage
+
+# next.js
+/noon-test-client/.next/
+/out/
+
+# production
+/noon-test-client/build
+
+# vercel
+/noon-test-client/.vercel
